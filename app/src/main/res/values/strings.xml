@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">nyfica_musica3</string>
+    <string name="title">Grupos y Canciones</string>
+    <string-array name="grupos">
+        <item>AC/DC</item>
+        <item>Metallica</item>
+        <item>Guns N Roses</item>
+        <item>Hawkwind</item>
+        <item>Kiss</item>
+        <item>Fleetwood Mac</item>
+        <item>Led Zeppelin</item>
+        <item>Blue Oyster Cult</item>
+        <item>Black Sabbath</item>
+        <item>Steely Dan</item>
+    </string-array>
+    <string-array name="canciones">
+        <item>dirty_deeds_done_dirt_cheap</item>
+        <item>master_of_puppets</item>
+        <item>welcome_to_the_jungle</item>
+        <item>urban_guerilla</item>
+        <item>i_was_made_for_lovin_you</item>
+        <item>tusk</item>
+        <item>houses_of_the_holy</item>
+        <item>burnin_for_you</item>
+        <item>black_sabbath</item>
+        <item>kid_charlemagne</item>
+    </string-array>
+</resources>
